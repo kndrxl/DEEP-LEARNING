@@ -1,0 +1,12 @@
+pymongo
+pytest
+opencv-python>=4.6.0.66
+torch<=1.10.1
+torchvision==0.11.2
+torchaudio==0.10.1
+matplotlib
+pandas
+requests
+PyYAML
+tqdm
+seaborn
